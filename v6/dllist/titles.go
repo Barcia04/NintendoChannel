@@ -103,7 +103,7 @@ var regionToGameTDB = map[constants.Region]string{
 
 var regionToCodeTDB = map[constants.Region][]byte{
 	constants.NTSC:  {'E', 'L', 'X', 'Z'},
-	constants.PAL:   {'P', 'F', 'D', 'S', 'I', 'H', 'U', 'X', 'Y', 'V', 'Z'},
+	constants.PAL:   {'P', 'F', 'D', 'S', 'I', 'H', 'U', 'X', 'Y', 'W', 'V', 'Z'},
 	constants.Japan: {'J'},
 }
 
